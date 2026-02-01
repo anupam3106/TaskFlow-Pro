@@ -1,0 +1,7 @@
+{
+  "name": "TaskFlow Pro",
+  "description": "A professional-grade productivity suite featuring smart task management, AI-powered breakdowns, and real-time reminders with browser notifications.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
